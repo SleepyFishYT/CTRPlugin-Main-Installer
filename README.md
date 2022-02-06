@@ -1,4 +1,4 @@
-# CTRPlugin-Main-Installer
+# CTRPlugin-Installer
 Install devkitPro / 3gxtool / ctrlibcrpf easy
 for making Plugin / CTRPlugins.
 
