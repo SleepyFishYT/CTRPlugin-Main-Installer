@@ -1,2 +1,13 @@
 # CTRPlugin-Main-Installer
-Install everything for easy use to making Plugin / CTRPlugins
+Install devkitPro / 3gxtool / ctrlibcrpf easy
+for making Plugin / CTRPlugins.
+
+# Author
+SleepyFish
+YouTube : https://youtu.be/Ar55zce7OY8                  
+Discord : https://discord.gg/KpgaCsZxSN
+
+
+
+
+Enjoy
